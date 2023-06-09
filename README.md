@@ -35,7 +35,7 @@ npm run start
 
 ## Contributing
 
-Author is Joaquin Loya here are some more of my repositories: https://github.com/JLoya900
+Author is Joaquin Loya with help from Ben Hu, both students from the UCLA extension coding bootcamp. Here are some more of my repositories: https://github.com/JLoya900
 
 ## Questions
 
